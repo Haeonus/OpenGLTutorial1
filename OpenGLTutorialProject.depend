@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1473825647 source:/home/hayden/Documents/Programs/OpenGL/Tutorials/OpenGLTutorialProject/main.cpp
+	<iostream>
+	"display.h"
+	<GL/glew.h>
+
+1473825694 /home/hayden/Documents/Programs/OpenGL/Tutorials/OpenGLTutorialProject/include/display.h
+	<SDL2/SDL.h>
+	<string>
+
+1473825708 source:/home/hayden/Documents/Programs/OpenGL/Tutorials/OpenGLTutorialProject/src/display.cpp
+	"display.h"
+	<GL/glew.h>
+	<iostream>
+
